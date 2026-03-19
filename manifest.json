@@ -1,9 +1,9 @@
 {
-  "name": "Portal FCE 2026",
+  "name": "Portal FCE 2026 · Visión Patagonia",
   "short_name": "Portal FCE",
-  "description": "FCE UNPSJB Ciclo Inicial 2026 - Quizzes, flashcards y resumenes offline",
-  "start_url": "./index.html",
-  "scope": "./",
+  "description": "Portal de estudio FCE UNPSJB.",
+  "start_url": "/portal-fce/index.html",
+  "scope": "/portal-fce/",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#faf8f5",
@@ -11,16 +11,9 @@
   "lang": "es-AR",
   "icons": [
     {
-      "src": "./icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "./icon-512.png",
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%231a1510'/%3E%3Ctext x='50%25' y='54%25' dominant-baseline='middle' text-anchor='middle' font-family='Georgia,serif' font-weight='700' font-size='220' fill='%23ffffff'%3EVP%3C/text%3E%3C/svg%3E",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/svg+xml"
     }
   ]
 }
