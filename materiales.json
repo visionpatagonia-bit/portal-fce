@@ -1,0 +1,79 @@
+[
+  {
+    "materia": "Administración I",
+    "titulo": "Resumen Escuelas del Pensamiento Administrativo",
+    "tipo": "PDF",
+    "descripcion": "Taylor, Fayol, Weber, Mayo, Drucker — U1 completa",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Administración I",
+    "titulo": "Mapa Conceptual — 7 Escuelas",
+    "tipo": "LINK",
+    "descripcion": "Diagrama interactivo en Google Drive",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Administración I",
+    "titulo": "TP1 Resuelto — Inversiones Patagonia",
+    "tipo": "PDF",
+    "descripcion": "Caso práctico con desarrollo completo",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Contabilidad I",
+    "titulo": "Itinerario II — Elementos del Patrimonio",
+    "tipo": "PDF",
+    "descripcion": "Activo, Pasivo, PN — RT N°16 y ejercicios resueltos",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Contabilidad I",
+    "titulo": "Itinerario III — Partida Doble y Variaciones",
+    "tipo": "PDF",
+    "descripcion": "Teoría + asientos tipo parcial FCE",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Contabilidad I",
+    "titulo": "Clasificador de Cuentas — Guía rápida",
+    "tipo": "LINK",
+    "descripcion": "Activo / Pasivo / PN / Resultado con ejemplos",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Propedéutica",
+    "titulo": "Estatuto UNPSJB — Resumen ejecutivo",
+    "tipo": "PDF",
+    "descripcion": "Gobierno universitario, derechos y deberes del alumno",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Propedéutica",
+    "titulo": "Normativa FCE — RGAA y Ord. CS N°120",
+    "tipo": "LINK",
+    "descripcion": "Régimen académico FCE Trelew completo",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Cs. Sociales",
+    "titulo": "Bachelard — Obstáculos Epistemológicos",
+    "tipo": "PDF",
+    "descripcion": "Resumen U1 con mapa conceptual integrado",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Cs. Sociales",
+    "titulo": "Bourdieu — Campo, Habitus y Capital",
+    "tipo": "PDF",
+    "descripcion": "U2 · Gutiérrez incluida · Trampas de parcial",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Cs. Sociales",
+    "titulo": "Angenot — Discurso Social",
+    "tipo": "LINK",
+    "descripcion": "Resumen U2 en Google Docs compartido",
+    "url": "https://docs.google.com/document/d/REEMPLAZAR_ID/edit"
+  }
+]
