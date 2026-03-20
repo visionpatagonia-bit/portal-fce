@@ -24,29 +24,29 @@
     "materia": "Administración I",
     "titulo": "U2 — La Organización como Sistema",
     "tipo": "PDF",
-    "descripcion": "Parsons y sistemas teleológicos. División del poder y centros de control. La visión de Peter Drucker.",
-    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+    "descripcion": "Sistemas teleológicos (Parsons), organización formal e informal, enfoque sistémico, homeostasis, sinergia, entropía y equifinalidad — suprasistemas y subsistemas",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID_ORG/view"
   },
   {
     "materia": "Administración I",
-    "titulo": "U2 — Funciones y Roles del Administrador",
+    "titulo": "U2 — Funciones del Administrador y Roles de Mintzberg",
     "tipo": "PDF",
-    "descripcion": "De las 5 funciones de Fayol a los 10 roles de Mintzberg (Interpersonales, Informativos y Decisorios).",
-    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+    "descripcion": "4 funciones administrativas · 10 roles de Mintzberg: Interpersonales (figura de autoridad, líder, enlace), Informativos (supervisor, difusor, vocero) y Decisorios (empresario, manejador de perturbaciones, distribuidor de recursos, negociador)",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID_FUNC/view"
   },
   {
     "materia": "Administración I",
-    "titulo": "U2 — Responsabilidad Social (RSE)",
+    "titulo": "U2 — Responsabilidad Social Empresarial",
     "tipo": "PDF",
-    "descripcion": "Del paradigma de la Filantropía al modelo Ganar-Ganar. ISO 26000 y el enfoque de Kliksberg.",
-    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+    "descripcion": "Paradigma RSE vs. tradicional · Modelo ganar-ganar · Stakeholders · ISO 26000 · ODS · Dimensiones interna y externa · Chiavenato y Kliksberg",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID_RSE/view"
   },
   {
     "materia": "Administración I",
-    "titulo": "Simulacro Parcial U2 — Autoevaluación",
-    "tipo": "TEST",
-    "descripcion": "Preguntas sobre roles de Mintzberg, tipos de organizaciones y niveles de sensibilidad social.",
-    "url": "#"
+    "titulo": "U2 — Simulacro de Parcial",
+    "tipo": "LINK",
+    "descripcion": "15 preguntas tipo FCE — sistemas teleológicos, Parsons, roles de Mintzberg, RSE, modelo ganar-ganar, ISO 26000 y ODS",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID_TEST/view"
   },
   {
     "materia": "Contabilidad I",
@@ -58,8 +58,8 @@
   {
     "materia": "Contabilidad I",
     "titulo": "Itinerario III — Partida Doble y Variaciones",
-    "tipo": "LINK",
-    "descripcion": "Ecuación patrimonial dinámica y casos de variaciones",
+    "tipo": "PDF",
+    "descripcion": "Teoría + asientos tipo parcial FCE",
     "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
   },
   {
@@ -89,5 +89,19 @@
     "tipo": "PDF",
     "descripcion": "Resumen U1 con mapa conceptual integrado",
     "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Cs. Sociales",
+    "titulo": "Bourdieu — Campo, Habitus y Capital",
+    "tipo": "PDF",
+    "descripcion": "U2 · Gutiérrez incluida · Trampas de parcial",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Cs. Sociales",
+    "titulo": "Angenot — Discurso Social",
+    "tipo": "LINK",
+    "descripcion": "Resumen U2 en Google Docs compartido",
+    "url": "https://docs.google.com/document/d/REEMPLAZAR_ID/edit"
   }
 ]
