@@ -1,5 +1,5 @@
-const CACHE_NAME = 'fce-portal-v1.0.1';
-const FONT_CACHE = 'fce-fonts-v1.0.1';
+const CACHE_NAME = 'fce-portal-v1.0.2';
+const FONT_CACHE = 'fce-fonts-v1.0.2';
 
 const SHELL_FILES = [
   './index.html',
