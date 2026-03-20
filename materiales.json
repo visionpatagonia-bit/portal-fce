@@ -1,0 +1,93 @@
+[
+  {
+    "materia": "Administración I",
+    "titulo": "Resumen Escuelas del Pensamiento Administrativo",
+    "tipo": "PDF",
+    "descripcion": "Taylor, Fayol, Weber, Mayo, Drucker — U1 completa",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Administración I",
+    "titulo": "Mapa Conceptual — 7 Escuelas",
+    "tipo": "LINK",
+    "descripcion": "Diagrama interactivo en Google Drive",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Administración I",
+    "titulo": "TP1 Resuelto — Inversiones Patagonia",
+    "tipo": "PDF",
+    "descripcion": "Caso práctico con desarrollo completo",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Administración I",
+    "titulo": "U2 — La Organización como Sistema",
+    "tipo": "PDF",
+    "descripcion": "Parsons y sistemas teleológicos. División del poder y centros de control. La visión de Peter Drucker.",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Administración I",
+    "titulo": "U2 — Funciones y Roles del Administrador",
+    "tipo": "PDF",
+    "descripcion": "De las 5 funciones de Fayol a los 10 roles de Mintzberg (Interpersonales, Informativos y Decisorios).",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Administración I",
+    "titulo": "U2 — Responsabilidad Social (RSE)",
+    "tipo": "PDF",
+    "descripcion": "Del paradigma de la Filantropía al modelo Ganar-Ganar. ISO 26000 y el enfoque de Kliksberg.",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Administración I",
+    "titulo": "Simulacro Parcial U2 — Autoevaluación",
+    "tipo": "TEST",
+    "descripcion": "Preguntas sobre roles de Mintzberg, tipos de organizaciones y niveles de sensibilidad social.",
+    "url": "#"
+  },
+  {
+    "materia": "Contabilidad I",
+    "titulo": "Itinerario II — Elementos del Patrimonio",
+    "tipo": "PDF",
+    "descripcion": "Activo, Pasivo, PN — RT N°16 y ejercicios resueltos",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Contabilidad I",
+    "titulo": "Itinerario III — Partida Doble y Variaciones",
+    "tipo": "LINK",
+    "descripcion": "Ecuación patrimonial dinámica y casos de variaciones",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Contabilidad I",
+    "titulo": "Clasificador de Cuentas — Guía rápida",
+    "tipo": "LINK",
+    "descripcion": "Activo / Pasivo / PN / Resultado con ejemplos",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Propedéutica",
+    "titulo": "Estatuto UNPSJB — Resumen ejecutivo",
+    "tipo": "PDF",
+    "descripcion": "Gobierno universitario, derechos y deberes del alumno",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Propedéutica",
+    "titulo": "Normativa FCE — RGAA y Ord. CS N°120",
+    "tipo": "LINK",
+    "descripcion": "Régimen académico FCE Trelew completo",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  },
+  {
+    "materia": "Cs. Sociales",
+    "titulo": "Bachelard — Obstáculos Epistemológicos",
+    "tipo": "PDF",
+    "descripcion": "Resumen U1 con mapa conceptual integrado",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
+  }
+]
