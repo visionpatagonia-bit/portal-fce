@@ -3,6 +3,7 @@
     "materia": "Administración I",
     "titulo": "Resumen Escuelas del Pensamiento Administrativo",
     "tipo": "PDF",
+    "categoria": "U1",
     "descripcion": "Taylor, Fayol, Weber, Mayo, Drucker — U1 completa",
     "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
   },
@@ -10,6 +11,7 @@
     "materia": "Administración I",
     "titulo": "Mapa Conceptual — 7 Escuelas",
     "tipo": "LINK",
+    "categoria": "U1",
     "descripcion": "Diagrama interactivo en Google Drive",
     "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
   },
@@ -17,6 +19,7 @@
     "materia": "Administración I",
     "titulo": "TP1 Resuelto — Inversiones Patagonia",
     "tipo": "PDF",
+    "categoria": "U1",
     "descripcion": "Caso práctico con desarrollo completo",
     "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
   },
@@ -24,6 +27,7 @@
     "materia": "Administración I",
     "titulo": "U2 — La Organización como Sistema",
     "tipo": "PDF",
+    "categoria": "U2",
     "descripcion": "Sistemas teleológicos (Parsons), organización formal e informal, enfoque sistémico, homeostasis, sinergia, entropía y equifinalidad — suprasistemas y subsistemas",
     "url": "https://drive.google.com/file/d/REEMPLAZAR_ID_ORG/view"
   },
@@ -31,6 +35,7 @@
     "materia": "Administración I",
     "titulo": "U2 — Funciones del Administrador y Roles de Mintzberg",
     "tipo": "PDF",
+    "categoria": "U2",
     "descripcion": "4 funciones administrativas · 10 roles de Mintzberg: Interpersonales (figura de autoridad, líder, enlace), Informativos (supervisor, difusor, vocero) y Decisorios (empresario, manejador de perturbaciones, distribuidor de recursos, negociador)",
     "url": "https://drive.google.com/file/d/REEMPLAZAR_ID_FUNC/view"
   },
@@ -38,13 +43,15 @@
     "materia": "Administración I",
     "titulo": "U2 — Responsabilidad Social Empresarial",
     "tipo": "PDF",
+    "categoria": "U2",
     "descripcion": "Paradigma RSE vs. tradicional · Modelo ganar-ganar · Stakeholders · ISO 26000 · ODS · Dimensiones interna y externa · Chiavenato y Kliksberg",
     "url": "https://drive.google.com/file/d/REEMPLAZAR_ID_RSE/view"
   },
   {
     "materia": "Administración I",
     "titulo": "U2 — Simulacro de Parcial",
-    "tipo": "LINK",
+    "tipo": "TEST",
+    "categoria": "TEST",
     "descripcion": "15 preguntas tipo FCE — sistemas teleológicos, Parsons, roles de Mintzberg, RSE, modelo ganar-ganar, ISO 26000 y ODS",
     "url": "https://drive.google.com/file/d/REEMPLAZAR_ID_TEST/view"
   },
@@ -52,6 +59,7 @@
     "materia": "Contabilidad I",
     "titulo": "Itinerario II — Elementos del Patrimonio",
     "tipo": "PDF",
+    "categoria": "U2",
     "descripcion": "Activo, Pasivo, PN — RT N°16 y ejercicios resueltos",
     "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
   },
@@ -59,6 +67,7 @@
     "materia": "Contabilidad I",
     "titulo": "Itinerario III — Partida Doble y Variaciones",
     "tipo": "PDF",
+    "categoria": "U3",
     "descripcion": "Teoría + asientos tipo parcial FCE",
     "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
   },
@@ -66,6 +75,7 @@
     "materia": "Contabilidad I",
     "titulo": "Clasificador de Cuentas — Guía rápida",
     "tipo": "LINK",
+    "categoria": "RESUMEN",
     "descripcion": "Activo / Pasivo / PN / Resultado con ejemplos",
     "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
   },
@@ -73,6 +83,7 @@
     "materia": "Propedéutica",
     "titulo": "Estatuto UNPSJB — Resumen ejecutivo",
     "tipo": "PDF",
+    "categoria": "RESUMEN",
     "descripcion": "Gobierno universitario, derechos y deberes del alumno",
     "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
   },
@@ -80,6 +91,7 @@
     "materia": "Propedéutica",
     "titulo": "Normativa FCE — RGAA y Ord. CS N°120",
     "tipo": "LINK",
+    "categoria": "RESUMEN",
     "descripcion": "Régimen académico FCE Trelew completo",
     "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
   },
@@ -87,6 +99,7 @@
     "materia": "Cs. Sociales",
     "titulo": "Bachelard — Obstáculos Epistemológicos",
     "tipo": "PDF",
+    "categoria": "U1",
     "descripcion": "Resumen U1 con mapa conceptual integrado",
     "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
   },
@@ -94,6 +107,7 @@
     "materia": "Cs. Sociales",
     "titulo": "Bourdieu — Campo, Habitus y Capital",
     "tipo": "PDF",
+    "categoria": "U2",
     "descripcion": "U2 · Gutiérrez incluida · Trampas de parcial",
     "url": "https://drive.google.com/file/d/REEMPLAZAR_ID/view"
   },
@@ -101,6 +115,7 @@
     "materia": "Cs. Sociales",
     "titulo": "Angenot — Discurso Social",
     "tipo": "LINK",
+    "categoria": "U2",
     "descripcion": "Resumen U2 en Google Docs compartido",
     "url": "https://docs.google.com/document/d/REEMPLAZAR_ID/edit"
   }
